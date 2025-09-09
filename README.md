@@ -1,5 +1,7 @@
 # Price Discovery Dynamics Between Decentralized and Centralized Cryptocurrency Exchanges : Code Sample for Paper
 
+Link to paper: https://doi.org/10.5281/zenodo.17084251
+
 ## Main Orchestration Files
 `multi_exchange_comparison.py` - Main entry point
 - Purpose: Main orchestration script that coordinates the entire analysis
